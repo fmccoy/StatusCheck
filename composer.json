@@ -3,7 +3,8 @@
 	"description": "simple php class to check the http status of a given url",
 	"authors" [
 		{
-			"email" : "fmccoy@thisisamg.com"
+			"name": "Frank McCoy",
+			"email": "fmccoy@thisisamg.com"
 		}
 	],
 	"require": {
