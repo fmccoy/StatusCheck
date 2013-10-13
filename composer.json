@@ -1,6 +1,11 @@
 {
 	"name": "fmccoy/statuscheck",
 	"description": "simple php class to check the http status of a given url",
+	"authors" [
+		{
+			"email" : "fmccoy@thisisamg.com"
+		}
+	],
 	"require": {
 		"php": ">=5.3.0"
 	},
